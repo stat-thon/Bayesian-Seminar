@@ -13,3 +13,7 @@ Week 2에서 한 번 시행착오를 겪고 문제를 잘 해결한 덕에 비�
 ## Week 4 - Paper Review: Variational Inference
 Week 4에는 생소한 베이지안 추론 방법인 Variational Inference, 한글로는 변분추론을 공부했습니다.
 ## Week 5 - VI 패키지로 구현
+
+
+# Thesis
+- 논문 작성 중에 엎어진 내용입니다.
