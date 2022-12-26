@@ -10,6 +10,6 @@ R로 회귀계수를 잘 추정할 수 있었습니다.
 ## Week 3 - 로지스틱 회귀계수 베이지안 추론
 로지스틱 회귀분석에서 추정되는 계수를 직접 베이지안 방식으로 추론했습니다.
 Week 2에서 한 번 시행착오를 겪고 문제를 잘 해결한 덕에 비교적 수월하게 구현할 수 있었습니다.
-# Week 4 - Paper Review: Variational Inference
+## Week 4 - Paper Review: Variational Inference
 Week 4에는 생소한 베이지안 추론 방법인 Variational Inference, 한글로는 변분추론을 공부했습니다.
-# Week 5 - VI 패키지로 구현
+## Week 5 - VI 패키지로 구현
